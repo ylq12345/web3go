@@ -1,6 +1,6 @@
 {
   "name": "web3gosdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "better svg utils",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ylq12345/design/issues"
+    "url": "https://github.com/ylq12345/web3go/issues"
   },
-  "homepage": "https://github.com/ylq12345/design#readme"
+  "homepage": "https://github.com/ylq12345/web3go#readme"
 }
