@@ -1,6 +1,6 @@
 {
   "name": "web3gosdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "better svg utils",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/godchicken/design.git"
+    "url": "git+https://github.com/ylq12345/web3go.git"
   },
   "keywords": [
     "design",
