@@ -15,9 +15,9 @@
     "xml2js": "~0.4.4",
     "xmlbuilder": "^2.4.3"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ylq12345/web3go.git"
+“repository”: {
+“type”: “git”,
+“url”: “GitHub - ylq12345/web3go”
   },
   "keywords": [
     "design",
