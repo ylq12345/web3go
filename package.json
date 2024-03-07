@@ -1,6 +1,6 @@
 {
   "name": "web3gosdk",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "better svg utils",
   "main": "index.js",
   "scripts": {
@@ -11,13 +11,13 @@
     "dxf-parsing": "^0.3.7",
     "gm": "~1.17.0",
     "underscore": "~1.7.0",
-    "web3gosdk": "^1.0.1",
+    "web3gosdk": "^1.0.4",
     "xml2js": "~0.4.4",
     "xmlbuilder": "^2.4.3"
   },
-“repository”: {
-“type”: “git”,
-“url”: “GitHub - ylq12345/web3go”
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ylq12345/web3go"
   },
   "keywords": [
     "design",
