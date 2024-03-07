@@ -10,9 +10,9 @@
     "async": "~0.9.0",
     "dxf-parsing": "^0.3.7",
     "gm": "~1.17.0",
-    "underscore": "~1.7.0",
+    "underscore": "^1.13.6",
     "web3gosdk": "^1.0.4",
-    "xml2js": "~0.4.4",
+    "xml2js": "^0.6.2",
     "xmlbuilder": "^2.4.3"
   },
   "repository": {
